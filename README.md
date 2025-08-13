@@ -1,6 +1,10 @@
 # EX 2: Analysis-of-the-Disk-Structure-using-Sleuth-Kit
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
+ ```
+NAME:KAVINRAJ.S
+REG NO:21223100019
+```
 
 ## DESIGN STEPS:
 ### Step 1:
